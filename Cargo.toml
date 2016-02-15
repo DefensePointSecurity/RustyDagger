@@ -1,0 +1,10 @@
+[package]
+name = "rustydagger"
+version = "0.1.0"
+authors = ["Bill Murphy <bill.murphy@defpoint.com>"]
+
+[dependencies]
+bufstream = "0.1.1"
+byteorder = "0.4.2"
+rust-crypto = "0.2.34"
+rand = "0.3.14"
